@@ -1,7 +1,11 @@
-.container-fluid {
+body {
     height: 100vh;
     background: #A7F954;
     background: -webkit-radial-gradient(center, #A7F954, #3D7E8E);
     background: -moz-radial-gradient(center, #A7F954, #3D7E8E);
     background: radial-gradient(ellipse at center, #A7F954, #3D7E8E);
+}
+
+h2 {
+    color: aliceblue;
 }
